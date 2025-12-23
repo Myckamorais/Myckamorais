@@ -1,5 +1,7 @@
 
-## Olá Mundo! Eu sou o Myckael Morais
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&width=700&lines=Ol%C3%A1+Mundo!+Eu+sou+o+Myckael+Morais" />
+
+
 
 🎓 Estudante de Engenharia de Software  
 💻 Focado em backend  
@@ -7,7 +9,9 @@
 
 ## 📊 Estatísticas do GitHub
 
- ![Stats](https://github-readme-stats.vercel.app/api?username=Myckamorais&show_icons=true&theme=tokyonight)   ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myckamorais&layout=compact&langs_count=6&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Myckamorais&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myckamorais&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 
 
 
