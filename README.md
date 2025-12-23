@@ -26,10 +26,10 @@
 ## 📫 Onde me encontrar
 
 <div> 
-  <a href="mailto:myckael.morais23@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=myckael.morais23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=myckael.morais23@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/myckael-morais-44a828305" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
