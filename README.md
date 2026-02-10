@@ -9,11 +9,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Myckamorais&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myckamorais&layout=compact&langs_count=6&theme=github_dark)
-
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Myckamorais&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myckamorais&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 
 ## 🛠️ Tecnologias & Ferramentas
