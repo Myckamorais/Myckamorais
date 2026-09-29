@@ -1,30 +1,24 @@
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&width=700&lines=Ol%C3%A1+Mundo!" />
-
-
-## 📊 Estatísticas do GitHub
-![Stats](https://github-stats-extended.vercel.app/api?username=Myckamorais&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-![Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Myckamorais&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&center=true&width=700&lines=Hello+World!;" />
 </div>
 
+## 👨‍💻 About Me
 
+I build web services with Java and Spring Boot, and I keep growing every day, one project and one lesson at a time. I come from a technical support background (L1/L2), which taught me to dig into the root cause before touching the code. Today I split my time between my Software Engineering degree and hands-on backend practice: REST APIs, persistence with JPA/Hibernate, and relational databases.
 
-## 📫 Onde me encontrar
+## 🧰 Languages and Tools
 
-<div> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,mariadb,git,github,docker,linux,bash,idea,postman&theme=dark" />
+</p>
+
+## 📫 Contact
+
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=myckael.morais23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/myckael-morais-44a828305" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn" />
+  </a>
+</p>
