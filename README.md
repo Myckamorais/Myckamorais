@@ -1,10 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&width=700&lines=Ol%C3%A1+Mundo!+Eu+sou+o+Myckael+Morais" />
-
-
-
-🎓 Estudante de Engenharia de Software  
-💻 Focado em backend  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&width=700&lines=Ol%C3%A1+Mundo!" />
 
 
 ## 📊 Estatísticas do GitHub
